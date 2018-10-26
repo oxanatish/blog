@@ -26,7 +26,7 @@ There were 5 volunteers to test two GNOME applications: a calendar and Evince PD
 **Test results:**
 
 Both calendar tasks were easy for participants and they completed them quickly. All of them also found PDF file without any problems. Autoscroll was a bit more difficult for them. Only 2 participants clicked the right mouse button first, others were trying to find this option in “File Options” and “View Options”, and only after a few attempts managed to find it. This task took 2 min on average, one of the participants needed more than 5 minutes. And adding the bookmark was quite confusing for two participants, they were trying to add it through right-click button. Renaming the bookmark wasn't a problem for anyone.
-![uT](http://placehold.it/200x200 "Small example image")
+![uT](https://ibb.co/cjs8oA)
 
 
 
