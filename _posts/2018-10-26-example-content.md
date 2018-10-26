@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Example content
+title: Making a first contribution in Outreachy usability testing
 published: true
 ---
-## Making a first contribution in Outreachy usability testing.
 
 For my contribution I had to make a 5-person usability test, using a recent version of GNOME and analyze the results.
 
