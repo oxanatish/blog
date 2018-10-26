@@ -12,7 +12,7 @@ For the test I used a laptop running the Fedora 28 operating system with the GNO
 I took the scenario tasks from a previous usability intern [Gina Dobrescu](https://ginadobrescu.wordpress.com/outreachy-program/week-5-sketching-out-the-scenario-tasks/).
 There were 5 volunteers to test two GNOME applications: a calendar and Evince PDF viewer. All of them have never used GNOME before and have seen it for the first time, though 3 of them are daily Windows/OS X users, two of them use a computer frequently, but not every day. The total time was from 5 to 10 min for all five scenario tasks. During the test I was sitting behind and taking notes.
 
-<div class="message">Here are the scenario tasks:</br>
+<div class="message">Here are the scenario tasks:\
 
 Calendar:
 1. Your boss just called, and cannot make it to a meeting with you. Your boss asked you to move the meeting to another time. Please create a new meeting for October 25, 2018, from 2:00pm until 4:00pm .
