@@ -4,7 +4,7 @@ title: Making a first contribution in Outreachy usability testing
 published: true
 ---
 
-For my contribution I had to make a 5-person usability test, using a recent version of GNOME and analyze the results.
+For my contribution I had to make a 5-person usability test, using a recent version of GNOME, generate a heat map of the results, then write a brief summary about the experience
 
 **Test method:**
 
@@ -26,6 +26,9 @@ There were 5 volunteers to test two GNOME applications: a calendar and Evince PD
 **Test results:**
 
 Both calendar tasks were easy for participants and they completed them quickly. All of them also found PDF file without any problems. Autoscroll was a bit more difficult for them. Only 2 participants clicked the right mouse button first, others were trying to find this option in “File Options” and “View Options”, and only after a few attempts managed to find it. This task took 2 min on average, one of the participants needed more than 5 minutes. And adding the bookmark was quite confusing for two participants, they were trying to add it through right-click button. Renaming the bookmark wasn't a problem for anyone.
+
+![UTesting Outreachy-11.jpg]({{site.baseurl}}/_posts/UTesting Outreachy-11.jpg/)
+
 
 
 
