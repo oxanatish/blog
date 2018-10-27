@@ -121,7 +121,7 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
 
 ![placeholder](http://placehold.it/800x400 "Large example image")
 ![placeholder](http://placehold.it/400x200 "Medium example image")
-![placeholder](https://ibb.co/cjs8oA "Small example image")
+![placeholder](<a href="https://imgbb.com/"><img src="https://image.ibb.co/iAfHgV/UTesting-Outreachy-11.jpg" alt="UTesting-Outreachy-11" border="0" /></a> "Small example image")
 
 ### Tables
 
